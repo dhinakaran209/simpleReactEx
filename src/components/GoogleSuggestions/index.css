@@ -1,0 +1,39 @@
+.google-img {
+  width: 60%;
+  margin-bottom: 10px;
+}
+
+.bg-container {
+  display: flex;
+  height: 100vh;
+  background-size: cover;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+}
+
+.search-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.input-form {
+  margin-top: 10px;
+  border-radius: 12px;
+  height: 24px;
+  width: 100%;
+  border-width: 1px;
+  border-style: none;
+  padding: 20px;
+  font-size: 14px;
+}
+
+.list-container {
+  list-style-type: none;
+  width: 100%;
+}
